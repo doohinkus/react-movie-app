@@ -25,3 +25,4 @@ npm install
 npm run
 ```
 * Open browser to http://localhost:3000 -- this should launch automatically
+* Or view live project on Surge https://lonely-property.surge.sh/
